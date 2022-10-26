@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
 </div>
 <h1>
   Ello!
@@ -8,15 +8,15 @@
 
 ---
 ### :woman_technologist: About Me :
-Technical Writer and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+Bella here! A Technical Writer and soon to be Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- :telescope: Working on Technical Writing.
+- :telescope: Currently learning the MEAN stack.
 
-- :seedling: Currently learning NodeJS.
+- :seedling: Working on strengthening my writing skills.
 
 - :zap: I have a passion for teaching and enjoy Cybersecurity.
 
-- :notes: Did I mention I love music? 
+- :notes: Did I mention I'm a music nerd? 
 
 
 
